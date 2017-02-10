@@ -103,7 +103,7 @@ counter = 0
 for elem in people_list:
 	umsi_titles[elem] = title_positions_list[counter]
 	counter += 1
-
+#We also made sure that we provided a method on communitcating our information to paerse the data
 
 ## It may be helpful to translate the following from English to code:
 
